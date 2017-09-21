@@ -1,0 +1,19 @@
+.yaohao_all{
+  width: 400px;
+  margin: 50px auto;
+}
+
+.yaohao_all button{
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.yaohao_all .yaohao_txt{
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+
+.yaohao_all .reminder{
+  font-size: 30px;
+  color: rgba(234,153,153,1);
+}

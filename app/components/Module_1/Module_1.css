@@ -1,0 +1,36 @@
+.Module_1_all {
+  width: 400px;
+  margin:50px auto;
+  border: 1px solid #000;
+
+}
+
+.Module_1_all .SerachBar_form input {
+  margin: 5px;
+  font-size: 16px;
+}
+
+
+.Module_1_all .ProductTable{
+  width: 100%;
+  /*border: "0";*/
+  box-size:border-box;
+  cellspacing:"1" ;
+  cellpadding:"0";
+  background-color: rgba(244,204,204,.3);
+  text-align: center;
+}
+
+
+.Module_1_all .ProductTable td{
+   line-height: 40px;
+}
+
+.SerachBar_form p{
+
+ font-size: 12px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+
